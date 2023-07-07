@@ -1,0 +1,1 @@
+get_gadget.py得到json文件，对应coda gadget和漏洞行
